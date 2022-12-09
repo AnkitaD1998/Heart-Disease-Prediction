@@ -25,5 +25,11 @@ The dataset we’ve consisted of records of Heart Disease. It  has various colum
 - [Zep project on heart disease.ipynb](https://github.com/AnkitaD1998/Heart-Disease-Prediction/blob/main/Zep%20project%20on%20heart%20disease.ipynb) - Includes Exploratory Data Analysis and all algorithms which are used in this project.
 - [Heart Disease Prediction.pdf](https://github.com/AnkitaD1998/Heart-Disease-Prediction/blob/main/Heart%20Disease%20Prediction.pdf) - Includes pdf of the presentation of the project.
 - [Heart Disease Prediction Report](https://github.com/AnkitaD1998/Heart-Disease-Prediction/blob/main/HEAT%20DISEASE%20PREDICTION%20REPORT.pdf) -  Includes report of the analysis.
+# Algorithms
+1. K Nearest Neighbor classifier (KNN)
+2. 
+
+
+
 
 
