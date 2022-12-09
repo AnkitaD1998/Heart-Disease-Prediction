@@ -22,6 +22,6 @@ The dataset we’ve consisted of records of Heart Disease. It  has various colum
 - Data Preprocessing
 - Model Prediction
 # Project Files Description
-[Zep project on heart disease.ipynb](http://www.github.com) - Includes Exploratory Data Analysis and all algorithms which are used in this project.
+[Zep project on heart disease.ipynb](https://github.com/AnkitaD1998/Heart-Disease-Prediction) - Includes Exploratory Data Analysis and all algorithms which are used in this project.
 
 
