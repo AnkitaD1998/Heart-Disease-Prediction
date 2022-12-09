@@ -18,6 +18,7 @@ The dataset we’ve consisted of records of Heart Disease. It  has various colum
 - ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 - HeartDisease: output class [1: heart disease, 0: Normal]
 ## Approach Pipeline
-Data Exploration
-Data Preprocessing
-Model Prediction
+- Data Exploration
+- Data Preprocessing
+- Model Prediction
+
