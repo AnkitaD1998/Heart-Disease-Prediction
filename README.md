@@ -27,7 +27,12 @@ The dataset we’ve consisted of records of Heart Disease. It  has various colum
 - [Heart Disease Prediction Report](https://github.com/AnkitaD1998/Heart-Disease-Prediction/blob/main/HEAT%20DISEASE%20PREDICTION%20REPORT.pdf) -  Includes report of the analysis.
 # Algorithms
 1. K Nearest Neighbor classifier (KNN)
-2. 
+2. Logistic Regression classifier
+3. Decision Tree classifier
+4. Random Forest classifier
+5. Support Vector Machine (SVM) classifier
+6. Gradient Boosting classifier
+7. XG Boosting classifier
 
 
 
